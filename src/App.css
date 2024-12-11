@@ -40,3 +40,16 @@
 .read-the-docs {
   color: #888;
 }
+
+.header {
+  position: relative;
+  height: 100px;
+  width: 100%;
+}
+
+.footer {
+  height: 80px;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+}
